@@ -9,7 +9,7 @@
 ## ALL Images used from [pexels](pexels.com)
 
 
-Clean and beautiful template development can be used as a basic structure to get fast results from your target site.
+The clean and beautiful template can be used as a basic structure to get fast results from your target site.
 
 Includes:
     - Landing page: which will tell a simple story about the company.
